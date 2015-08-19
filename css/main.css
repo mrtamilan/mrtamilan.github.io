@@ -25,7 +25,7 @@ a:visited { color: #205caa}
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 900px;
+  max-width: 1000px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
@@ -319,15 +319,15 @@ th.play {
 /*Sidebar styles*/
 #sidebar {
   display: inline-block;
-  width: 29%;
+  width: 35%;
   margin-left: 20px;
   vertical-align: top;
-  max-width: 300px;
+  max-width: 360px;
 }
 .widget {
   margin: 10px;
   border-bottom: 3px solid gray;
-  max-width: 300px;
+  max-width: 360px;
 }
 .wc {
   padding: 10px;
